@@ -3,5 +3,7 @@ Skład zespołu:
 Aleksandra Stadnicka, Natalia Owsiejko, Damian Mitros
 
 
-zadanie 6: https://www.figma.com/design/IgKsP7HMOJ92BYjGP3y0iL/RouteMaster?node-id=0-1&t=Xc0AXFgxqpa4wZUH- /n
+zadanie 6: https://www.figma.com/design/IgKsP7HMOJ92BYjGP3y0iL/RouteMaster?node-id=0-1&t=Xc0AXFgxqpa4wZUH- 
+
+
 zadanie 7: https://dbdesigner.page.link/YgAdX6NYGpqBqWGd6
